@@ -14,4 +14,4 @@ eureka:
 server:
   port: 8081
 app:
-  myname: Gopi
+  myname: Gopinath
