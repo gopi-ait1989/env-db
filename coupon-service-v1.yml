@@ -14,7 +14,7 @@ eureka:
 server:
   port: 8081
 app:
-  myname: Gopinath A
+  myname: Gopi
 management:
   endpoints:
     web:
