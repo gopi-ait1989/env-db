@@ -15,3 +15,8 @@ server:
   port: 8082
 app:
   myname: Gopinath A
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
