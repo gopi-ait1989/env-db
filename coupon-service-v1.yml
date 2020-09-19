@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/mydb
-  username: root
-  password: test
+    username: root
+    password: test
 #application name register with eureka
   application:
     name: coupon-service-v1
